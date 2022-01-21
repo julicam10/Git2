@@ -4,3 +4,5 @@ Este un blog de ejemplo para el curso Profesional de [Git y GitHub de Platzi](ht
 > El curso de Git y GitHub de Platzi me ha ayudado mucho a entender más sobre el manejo de proyectos locales y mediantede servidores.
 
 * Creado por el increible platzi team.
+* Incluye ejemplos en Windows, Linux y Mac.
+* Disponible para todas las edades.
