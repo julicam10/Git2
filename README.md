@@ -5,3 +5,4 @@ Este un blog de ejemplo para el curso Profesional de [Git y GitHub de Platzi](ht
 
 * Creado por el increible platzi team.
 * Incluye ejemplos en Windows, Linux y Mac.
+* Disponible para todas las edades.
